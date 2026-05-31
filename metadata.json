@@ -1,0 +1,6 @@
+{
+  "name": "Tropical Esports Standings Generator",
+  "description": "A professional 9:16 esports tournament standings template with a clean tropical design, customizable headers, and automated point calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
